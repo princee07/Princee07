@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Prince, and I'm a BTech CSE student & MERN stack developer, from SDIET YMCA, India. 🚀</h1>
+<h1 align="left">Hi 👋! I am  Prince, and I'm a BTech CSE student & MERN stack developer, from SDIET YMCA, India. 🚀</h1>
 
 ###
 
