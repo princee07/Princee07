@@ -13,10 +13,8 @@
       <li>
        Code-Reviewer
         <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View Repository</a>
-      </li>
-      <li>Exploring advanced features in React, including hooks and state management.</li>
-      <li>Working on backend services using Node.js and Express.</li>
-      <li>Integrating Firebase authentication and real-time database features.</li>
+     
+     
     </ul>
   </div>
 
