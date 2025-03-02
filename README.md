@@ -20,7 +20,8 @@
      
     
   </div>
-<img align="right" height="150" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif"  />
+<img align="center" width="100%" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif" />
+
 
 ### 🛠️ Tech Stack
 <div align="left">
