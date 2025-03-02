@@ -55,9 +55,3 @@
 
 ---
 
-### 💡 Dynamic Elements
-You can make your profile more dynamic using:
-- GitHub Actions for auto-updates.
-- Dynamic badges from [Shields.io](https://shields.io/).
-- Auto-refreshing GitHub stats using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-- Display latest blog posts or projects using APIs or custom scripts.
