@@ -1,10 +1,11 @@
 <h1 align="left">Hi 👋! I am Prince, a BTech CSE student & MERN stack developer from SDIET YMCA, India. 🚀</h1>
 
+
 <p align="left">I am passionate about web development, coding, and building impactful software solutions. I enjoy exploring new technologies and continuously enhancing my skills.</p>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif"  />
+
 
 ###
  <div className="currently-working-on">
@@ -19,7 +20,7 @@
      
     
   </div>
-
+<img align="right" height="150" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif"  />
 
 ### 🛠️ Tech Stack
 <div align="left">
