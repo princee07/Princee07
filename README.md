@@ -7,6 +7,19 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif"  />
 
 ###
+ <div className="currently-working-on">
+    <h2>🚧 Currently Working On 🚧</h2>
+    <ul>
+      <li>
+       Code-Reviewer
+        <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View Repository</a>
+      </li>
+      <li>Exploring advanced features in React, including hooks and state management.</li>
+      <li>Working on backend services using Node.js and Express.</li>
+      <li>Integrating Firebase authentication and real-time database features.</li>
+    </ul>
+  </div>
+
 
 ### 🛠️ Tech Stack
 <div align="left">
