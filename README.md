@@ -12,7 +12,7 @@
     <h2>🚧 Currently Working On 🚧</h2>
     <ul>
       <li>
-       Code-Reviewer
+       Code-Reviewerr
         <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View Repository</a>
       </li>
     </ul>
