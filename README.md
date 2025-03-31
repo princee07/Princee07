@@ -13,7 +13,7 @@
     <ul>
       <li>
        Code-Reviewerr
-        <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View Repository</a>
+        <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View my Repository</a>
       </li>
     </ul>
     
