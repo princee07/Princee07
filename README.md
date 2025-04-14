@@ -12,7 +12,7 @@
     <h2>🚧 Currently Working On : 🚧</h2>
     <ul>
       <li>
-     TypeScript
+     TypeScript.
         <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View my Repository</a>
       </li>
     </ul>
