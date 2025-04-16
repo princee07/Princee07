@@ -23,7 +23,7 @@
 <img   margin-left="50px" width="50%" src="https://media1.tenor.com/m/uVz3y38oRjcAAAAC/bleach.gif" />
 
 
-### 🛠️ Tech Stack
+### 🛠️ Tech StacK
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
