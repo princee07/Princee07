@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋! I am Prince, a BTech CSE student & MERN stack developer from SDIET YMCA, India. 🚀</h1>
+<h1 align="left">Hello 👋! I am Prince, a BTech CSE Student & MERN stack developer from SDIET YMCA, India. 🚀</h1>
 
 
 <p align="left">I am passionate about web development, coding, and building impactful software solutions. I enjoy exploring new technologies and continuously enhancing my skills.</p>
