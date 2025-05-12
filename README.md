@@ -13,7 +13,7 @@
     <ul>
       <li>
      TypeScript.
-        <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View my Repository</a>
+        <a href="https://github.com/princee07/Code-Reviewe.git" target="_blank">View My Repository</a>
       </li>
     </ul>
     
